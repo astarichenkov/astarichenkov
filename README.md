@@ -1,20 +1,13 @@
-### Hi there 👋
+## Привет 👋 меня зовут Антон
 
-<!--
-**astarichenkov/astarichenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мои проекты на Java:
++ [Forum](https://github.com/astarichenkov/job4j_forum) Spring Boot (Data, Security, Test), JSP, JSTL, PostgreSQL, Maven, Heroku
++ [Car Sales](https://github.com/astarichenkov/job4j_cars) Java, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit, Mockito
++ [Car Accident](https://github.com/astarichenkov/job4j_car_accident) Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
++ [Todo List](https://github.com/astarichenkov/job4j_todo) Java, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit, Mockito, Maven, Tomcat
++ [Dream Job](https://github.com/astarichenkov/job4j_dreamjob) Java, JS, Servlets, PostgreSQL, JDBC, Liquibase, JUnit
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=astarichenkov&hide=stars,prs,issues,contribs)
-
+-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astarichenkov&layout=compact)](https://github.com/ShamRail/github-readme-stats)
